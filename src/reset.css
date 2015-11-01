@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+input, select, textarea, button {
+  background-color: transparent;
+  border: 0;
+  color: inherit;
+  font-family: inherit;
+  outline: none;
+}
