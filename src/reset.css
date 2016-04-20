@@ -10,6 +10,9 @@ table {
 
 ul {
   list-style: none;
+}
+
+p, ul {
   padding: 0;
 }
 
