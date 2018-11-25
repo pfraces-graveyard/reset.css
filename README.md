@@ -1,7 +1,7 @@
 reset.css
 =========
 
-Better CSS defaults
+CSS defaults
 
 Similar projects
 ----------------
